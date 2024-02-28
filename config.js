@@ -120,12 +120,12 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.botname = 'Arya'
+global.princebot = 'Arya'
+global.packname = 'Arya' 
+global.author = 'Rise' 
+global.princeig = 'https://www.instagram.com/juniorwinter6?igsh=MWFqOHh3NmY1c3N6OQ==' 
+global.princegp = 'https://chat.whatsapp.com/LHWGPUZkUKmLbGFXMXxRJO'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
@@ -136,8 +136,8 @@ global.thumb = fs.readFileSync('./Assets/Prince.png')
 
 
 //Reactions
-global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _Please, wait a moment..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*🖼️ _Please, wait a moment..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
