@@ -577,9 +577,9 @@ export async function participantsUpdate({
                         mentionedJid: [user],
                         externalAdReply: {
                         title: global.botname,
-                        body: "Welcome",
+                        body: "ARYA",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP',
+                        sourceUrl: 'https://chat.whatsapp.com/LHWGPUZkUKmLbGFXMXxRJO',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -632,7 +632,7 @@ export async function participantsUpdate({
                         title: global.botname,
                         body: "Bye bye",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: '',
+                        sourceUrl: 'https://chat.whatsapp.com/LHWGPUZkUKmLbGFXMXxRJO',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
